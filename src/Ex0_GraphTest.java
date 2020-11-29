@@ -1,4 +1,4 @@
-package ex0;
+package ex0.src;
 
 //import org.testng.annotations.Test;
 import org.junit.jupiter.api.Test;

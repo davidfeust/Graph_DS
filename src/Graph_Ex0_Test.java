@@ -1,4 +1,5 @@
-package ex0;
+package ex0.src;
+
 
 import java.util.List;
 import java.util.Random;

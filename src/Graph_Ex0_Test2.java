@@ -1,4 +1,4 @@
-package ex0;
+package ex0.src;
 /**
  * This is a simple test class to test Ex0 functionality & performance.
  * Note: This is not a JUnit test - and should surely be, to be fixed in Ex1.
