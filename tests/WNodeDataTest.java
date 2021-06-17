@@ -1,7 +1,7 @@
 package ex0.tests;
 
-import ex0.src.*;
 
+import api.NodeData;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

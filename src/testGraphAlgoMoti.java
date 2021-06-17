@@ -1,4 +1,3 @@
-package ex0.src;
 
 import java.util.Collection;
 import java.util.List;

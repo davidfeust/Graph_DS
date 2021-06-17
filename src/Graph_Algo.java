@@ -1,4 +1,3 @@
-package ex0.src;
 
 import java.util.Iterator;
 import java.util.LinkedList;

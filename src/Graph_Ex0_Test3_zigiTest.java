@@ -1,4 +1,3 @@
-package ex0.src;
 
 /**
  * This is a edge test class to test Ex0 functionality & performance.
